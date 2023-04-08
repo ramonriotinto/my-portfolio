@@ -49,15 +49,15 @@ export const Home = (): JSX.Element => {
                             </Text>
                         </Flex>
                         <Text as="h1" type="heading1" color="grey5">
-                            Criar{" "}
+                            Desenvolvedor{" "}
                             <Text as="span" type="heading1" color="brand1">
-                                e desenvolver
+                                Full-Stack.
                             </Text>{" "}
-                            projetos{" "}
+                            Criar e desenvolver{" "}
                             <Text as="span" type="heading1" color="brand1">
-                                é algo do que mais
+                                projetos
                             </Text>{" "}
-                            gosto.
+                            é algo do que mais gosto.
                         </Text>
                         <Text type="body1" color="grey2">
                             Descubra aqui neste ambiente criado especialmente
