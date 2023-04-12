@@ -88,7 +88,7 @@ export const Project = (): JSX.Element => {
                                     target="_blank"
                                     href={`${repository.homepage}`}
                                 >
-                                    <FaShare /> See demo
+                                    <FaShare /> Ver demonstração
                                 </ProjectLink>
                             )}
                         </ProjectLinks>
